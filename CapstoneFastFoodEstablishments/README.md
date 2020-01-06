@@ -11,15 +11,15 @@ Within this directory are the files:
 
 And directories:
 - **[data_wrangling](https://github.com/jon-e-pizza/Springboard/tree/master/CapstoneFastFoodEstablishments/data_wrangling)** containing data wrangling steps, but not our processed CSV data due to size and proprietary nature
--- **[Python Notebook](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/Data_Wrangling.ipynb)** Detailing steps and code to amalgamate various measures and output variables into one CSV
--- **[Report Detailing the Process](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/DataWranglingForFastFoodDemand.pdf)**
--- **[Output Processed CSV](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/location_data_wrangled.csv)** indexed by CBG
+..- **[Python Notebook](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/Data_Wrangling.ipynb)** Detailing steps and code to amalgamate various measures and output variables into one CSV
+..- **[Report Detailing the Process](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/DataWranglingForFastFoodDemand.pdf)**
+..- **[Output Processed CSV](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/location_data_wrangled.csv)** indexed by CBG
 
 - **[eda](https://github.com/jon-e-pizza/Springboard/tree/master/CapstoneFastFoodEstablishments/eda)** containing initial exploratory data analysis steps
--- **[Python Notebook](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/eda/EDA.ipynb)** Detailing steps and codes analysing statistics of successful CBGs and containing summary visuals
--- related input data consumed by the notebook
+..- **[Python Notebook](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/eda/EDA.ipynb)** Detailing steps and codes analysing statistics of successful CBGs and containing summary visuals
+..- related input data consumed by the notebook
 
 - **[learning](https://github.com/jon-e-pizza/Springboard/tree/master/CapstoneFastFoodEstablishments/learning)** containing machine learning modeling processes used in analysis
--- **[Python Notebook](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/learning/machine-learning.ipynb)** Detailing code for machine learning models and steps taken to arrive at optimal models
--- **[Report Detailing the Process](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/learning/MachineLearning-process.pdf)**
--- related input data consumed by the notebook
+..- **[Python Notebook](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/learning/machine-learning.ipynb)** Detailing code for machine learning models and steps taken to arrive at optimal models
+..- **[Report Detailing the Process](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/learning/MachineLearning-process.pdf)**
+..- related input data consumed by the notebook
