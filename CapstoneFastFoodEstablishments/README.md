@@ -10,10 +10,10 @@ Within this directory are the files:
 - **[Final Presentation](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/Locating-Fast-Food-for-Success-Presentation.pdf)** a presentation to review the most essential details of our findings
 
 And directories:
-- **[data_wrangling](https://github.com/jon-e-pizza/Springboard/tree/master/CapstoneFastFoodEstablishments/data_wrangling)** containing data wrangling steps, but not our processed CSV data due to size and proprietary nature
-..- **[Python Notebook](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/Data_Wrangling.ipynb)** Detailing steps and code to amalgamate various measures and output variables into one CSV
-..- **[Report Detailing the Process](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/DataWranglingForFastFoodDemand.pdf)**
-..- **[Output Processed CSV](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/location_data_wrangled.csv)** indexed by CBG
+* **[data_wrangling](https://github.com/jon-e-pizza/Springboard/tree/master/CapstoneFastFoodEstablishments/data_wrangling)** containing data wrangling steps, but not our processed CSV data due to size and proprietary nature
+⋅⋅* **[Python Notebook](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/Data_Wrangling.ipynb)** Detailing steps and code to amalgamate various measures and output variables into one CSV
+⋅⋅* **[Report Detailing the Process](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/DataWranglingForFastFoodDemand.pdf)**
+⋅⋅* **[Output Processed CSV](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/data_wrangling/location_data_wrangled.csv)** indexed by CBG
 
 - **[eda](https://github.com/jon-e-pizza/Springboard/tree/master/CapstoneFastFoodEstablishments/eda)** containing initial exploratory data analysis steps
 ..- **[Python Notebook](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneFastFoodEstablishments/eda/EDA.ipynb)** Detailing steps and codes analysing statistics of successful CBGs and containing summary visuals
