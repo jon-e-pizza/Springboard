@@ -3,6 +3,7 @@
 In this project we detail the creation of a model with the intent to successfully predict whether a tweet is talking about an ongoing disaster. We apply text preprocessing methods to create a reduced TF-IDF representation of the labeled tweets provided at https://www.kaggle.com/c/nlp-getting-started/overview. We then use these transformed tweets to fit machine learning classifiers Random Forest, XGBoost, and Naive Bayes. We also train neural networks to classify the same. 
 
 Within this directory are the files:
+- **[Final Report](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneDisasterTweets/Recognizing-Disaster-Tweets_Capstone-2-Final-Report.pdf)** detailing our full process from initial proposal to model production, to next recommendations
 - **[Milestone 2 Report](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneDisasterTweets/Recognizing-Disaster-Tweets-Capstone-2_Milestone-Report-2.pdf)** detailing our initial proposal for this investigation to each step in the process of producing models
 - **[Milestone Report](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneDisasterTweets/Recognizing-Disaster-Tweets_Capstone-2-Milestone-Report-1.pdf)** an early revision detailing our initial proposal and exploration of our problem space
 - **[Presentation](https://github.com/jon-e-pizza/Springboard/blob/master/CapstoneDisasterTweets/Diagnosing-the-Disaster-Tweets-slides.pdf)** a slide presentation to review the most essential details of the project
